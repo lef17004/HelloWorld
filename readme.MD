@@ -17,3 +17,6 @@ To execute the program: `python3 hello.py`
 
 
 ## Useful Websites 
+[Learn Python the Hard Way.](https://learnpythonthehardway.org/python3/)
+
+[Python Reference](https://docs.python.org/3/tutorial/index.html)
